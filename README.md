@@ -14,21 +14,21 @@
                                                  /    
                                                 / 
                                                /
-                           has been          released
-                       - - - - - - -       - - - - - - - 
-                   under the Romantic     WTF Public License.
-                  - - - - - - - - - - -  - - - - - - - - - - - 
+                          has been           released
+                     - - - - - - - -      - - - - - - - - 
+                   under  the  Romantic   WTF Public License.
+                  - - - - - - - - - - -',' - - - - - - - - - - 
                   I hereby grant you an irrevocable license to
-                    - - - - - - - - - - - - - - - - - - - -
+                   - - - - - - - - - - - - - - - - - - - - -
                      do what the gentle caress you want to
-                      - - - - - - - - - - - - - - - - - - 
+                          - - - - - - - - - - - - - - -  
                               with   this   lovely
                                  - - - - - - - - 
                                   / license.
                                  /  - - - -
-                           #    /    Love
+                           #    /    Love,
                            ##  /  #    -
-                           ###/###     ,
+                           ###/###    ,
                            #####
                            ###
                            #
