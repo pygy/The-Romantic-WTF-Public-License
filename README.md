@@ -14,8 +14,8 @@
                                                  /    
                                                 / 
                                                /
-                          has been           released
-                     - - - - - - - -      - - - - - - - - 
+                          has been            released
+                     - - - - - - - -       - - - - - - - - 
                    under  the  Romantic   WTF Public License.
                   - - - - - - - - - - -',' - - - - - - - - - - 
                   I hereby grant you an irrevocable license to
