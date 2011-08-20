@@ -6,9 +6,9 @@
 
                The Romantic WTF Public License a.k.a version "<3"
                   
-                                                    | 
+                                                   | 
                                                     '/,__
-                                                  | /
+                                                 |  /
                                                   '/,__
                                                   /
                                                  /    
