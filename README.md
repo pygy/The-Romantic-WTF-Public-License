@@ -6,15 +6,14 @@
 
                The Romantic WTF Public License a.k.a version "<3"
                   
-                                                   | 
-                                                    '/,__
-                                                 |  /
-                                                  '/,__
-                                                  /
-                                                 /    
-                                                / 
+                                                \ 
+                                                 '.,__
+                                              \  /
+                                               '/,__
                                                /
-                          has been            released
+                                              /
+                                             /
+                          has been          / released
                      - - - - - - - -       - - - - - - - - 
                    under  the  Romantic   WTF Public License.
                   - - - - - - - - - - -',' - - - - - - - - - - 
@@ -26,12 +25,13 @@
                                  - - - - - - - - 
                                   / license.
                                  /  - - - -
-                           #    /    Love,
-                           ##  /  #    -
-                           ###/###    ,
-                           #####
-                           ###
-                           #
+                                /    Love,
+                          #    /       -
+                          ##  /  ##    ,
+                          #######     
+                          #####
+                          ###
+                          #
     
                -- the author.
     
