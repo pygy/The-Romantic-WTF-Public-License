@@ -7,8 +7,8 @@
                The Romantic WTF Public License a.k.a version "<3"
                   
                                                 \ 
-                                                 '.,__
-                                              \  /
+                                               \ '.,__
+                                              \ '/,__
                                                '/,__
                                                /
                                               /
@@ -26,11 +26,11 @@
                                   / license.
                                  /  ~ ~ ~ ~
                                 /    Love,
-                          #    /      ~ ~
-                          #######      '
-                          #####
-                          ###
-                          #
+                           #   /      ~ ~
+                           #######     '
+                           #####
+                           ###
+                           #
     
                -- the author.
     
