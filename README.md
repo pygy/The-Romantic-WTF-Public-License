@@ -21,8 +21,8 @@
                    ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
                      do what the gentle caress you want to
                           ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~  
-                              with   this   lovely
-                                 ~ ~ ~ ~ ~ ~ ~ ~ 
+                              with  /this   lovely
+                                 ~ / ~ ~ ~ ~ ~ ~ 
                                   / license.
                                  /  ~ ~ ~ ~
                                 /    Love,
